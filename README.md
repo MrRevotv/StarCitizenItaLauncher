@@ -1,8 +1,7 @@
 🚀 Star Citizen Ita Launcher v2.0
 L'utility definitiva per la localizzazione italiana di Star Citizen.
 
-Questo launcher è stato progettato per semplificare l'installazione e la gestione della traduzione italiana di Star Citizen, offrendo un controllo granulare sui canali di gioco e il supporto per file personalizzati.
-
+📥 Scarica l'ultima versione
 🛠 Caratteristiche Principali
 Gestione Multi-Canale: Supporto indipendente per i canali LIVE, PTU e EPTU.
 
@@ -12,54 +11,40 @@ Supporto File Custom: Possibilità di caricare manualmente file .ini o .p4k (abi
 
 Ripristino Intelligente: Sistema di "roll-back" per tornare alla versione ufficiale o rimuovere completamente la traduzione.
 
-Interfaccia Reattiva: I tasti di azione cambiano dinamicamente in base allo stato del file system (Installa, Gioca, Ripristina).
-
-📦 Requisiti
-Sistema Operativo: Windows 10/11 x64.
-
-Framework: .NET 8.0 Runtime.
-
-Star Citizen: Installato tramite il launcher originale RSI.
+Interfaccia Reattiva: I tasti di azione cambiano dinamicamente in base allo stato del file system.
 
 📖 Guida all'Uso
-1. Primo Avvio e Configurazione
-Al primo avvio, il launcher tenterà di rilevare automaticamente la cartella di installazione di Star Citizen. Se non viene trovata:
+1️⃣ Primo Avvio
+Al primo avvio, il launcher cercherà automaticamente Star Citizen. Se non viene trovato:
 
 Vai in ⚙ SETTINGS.
 
 Clicca su SFOGLIA e seleziona la cartella principale (es: .../Roberts Space Industries/StarCitizen).
 
-Il sistema popolerà automaticamente la lista dei canali disponibili.
-
-2. Installazione della Traduzione
-Seleziona il canale (es. LIVE) dal menu olografico centrale.
+2️⃣ Installazione
+Seleziona il canale (es. LIVE) dal menu centrale.
 
 Se la traduzione è mancante, clicca su INSTALLA TRADUZIONE (Verde).
 
 A installazione completata, apparirà il tasto GIOCA (Blu).
 
-3. Gestione File Custom
-Se desideri testare una traduzione non ufficiale:
+3️⃣ File Custom & Ripristino
+Usa il tasto 📂 CUSTOM per caricare una tua traduzione.
 
-Abilita l'opzione nelle impostazioni.
+Il launcher passerà in modalità "Custom" permettendoti di tornare all'ufficiale tramite il tasto RIPRISTINA UFFICIALE (Arancione).
 
-Usa il tasto 📂 CUSTOM per caricare il tuo file.
+4️⃣ Rimozione (Protocollo Emergenza)
+Usa il tasto 🗑 RIMUOVI (Rosso) per eliminare ogni traccia della traduzione, pulire il file user.cfg e tornare al gioco originale in inglese.
 
-Il launcher riconoscerà lo stato "Custom" e ti permetterà di tornare alla versione ufficiale tramite il tasto RIPRISTINA UFFICIALE (Arancione).
+⚠️ Nota importante sulla Traduzione
+[!NOTE]
+Questa è una traduzione amatoriale realizzata dalla community. Non è un prodotto ufficiale Cloud Imperium Games.
 
-4. Rimozione (Protocollo Emergenza)
-Se vuoi tornare al gioco originale in inglese, usa il tasto 🗑 RIMUOVI (Rosso).
+🤝 Social & Supporto
+Canale YouTube - Tutorial hardware e software.
 
-Questa operazione eliminerà le cartelle Localization create e pulirà il file user.cfg.
+Server Discord - Supporto tecnico e chat.
 
-⚠️ Disclaimer
-Questo è un progetto non ufficiale sviluppato dalla community. Non è affiliato a Cloud Imperium Games (CIG) o Roberts Space Industries (RSI). L'uso della traduzione è a discrezione dell'utente.
+Organizzazione RSI - La nostra flotta in-game.
 
-## 🤝 Social & Supporto
-Scegli un canale per unirti alla community:
-
-*   [**Canale YouTube**](https://www.youtube.com/@MrRevoTV) - Tutorial hardware e software.
-*   [**Server Discord**](https://discord.gg/W9xYAss9yE) - Supporto tecnico e chat.
-*   [**Organizzazione RSI**](https://robertsspaceindustries.com/en/orgs/ALSE) - La nostra flotta in-game.
-
-Progetto sviluppato da MrRevo. See you in the Verse! 🌌✨
+Progetto sviluppato da MrRevo & Gattomatto, con l'aiuto di tutta la community e specialmente dell'org LSE. See you in the Verse! 🌌✨
