@@ -90,7 +90,7 @@ Cliccando su `⚙ SETTINGS` in alto a destra, potrai:
 ## 🖐️ Installazione Manuale
 
 Se preferisci non usare il Launcher intelligente, puoi installare la traduzione a mano:
-1. Scarica il file `global.ini` dal seguente [![Scarica ZIP Manuale](https://img.shields.io/badge/DOWNLOAD-VERSIONE_MANUALE_(ZIP)-orange?style=for-the-badge&logo=archive)](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen-V2.0/releases/latest/download/SC_Localizzazione_Italiano.zip)
+1. Scarica il file `global.ini` dal seguente [![Scarica ZIP Manuale](https://img.shields.io/badge/DOWNLOAD-VERSIONE_MANUALE_(ZIP)-orange?style=for-the-badge&logo=archive)](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen-V2.0/raw/main/SC_Localizzazione_Italiano.zip)
 2. Apri la cartella di installazione di Star Citizen (es: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`).
 3. Apri il file zip scaricato ed estrai la cartella `data` dentro la cartella `LIVE` (o PTU).
 4. Estrai anche il file `user.cfg` sempre nella stessa directory.
